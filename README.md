@@ -1,3 +1,5 @@
 # Working with ADOpy
 
-Making some changed to their existiing jupyter notebooks to understand how their method works
+We made a working copy of the Jupyter notebooks from ADOpy repository: https://github.com/adopy
+
+We are looking to first understand how ADO works and how we can implement it in our experiments
